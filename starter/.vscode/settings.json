@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/maryvu/Desktop/CSE12/junit-files/junit-4.13.2.jar",
+        "/Users/maryvu/Desktop/CSE12/junit-files/hamcrest-core-1.3.jar"
+    ]
+}
